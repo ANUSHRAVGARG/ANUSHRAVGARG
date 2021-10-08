@@ -13,3 +13,11 @@ You can click the Preview link to take a look at your changes.
 @WEB DEVELOPER, @CYBERSECURITY ENTHUSIAST @LEARNED PYTHON AND C++
 MEMBER OF ACM SOCIETY OF PEC 
 INTERESTED IN ANY TOPIC RELATED TO @GSOC , @ICPC
+
+
+
+Jupyter Notebook         1 repos            ███████████████   ░░░░░░░   71.43% 
+C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+python                   1 repo   
