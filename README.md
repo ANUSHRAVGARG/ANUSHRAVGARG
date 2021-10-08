@@ -16,8 +16,8 @@ INTERESTED IN ANY TOPIC RELATED TO @GSOC , @ICPC
 
 
 
-Jupyter Notebook         1 repos            ███████████████   ░░░░░░░   71.43% 
+Jupyter Notebook         1 repos            ███████████████   ░░░░░░░     7% 
 C++                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
 JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
-python                   1 repo   
+python                   1 repo                       7%
